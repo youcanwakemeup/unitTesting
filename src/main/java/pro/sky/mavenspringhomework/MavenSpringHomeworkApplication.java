@@ -9,5 +9,5 @@ public class MavenSpringHomeworkApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MavenSpringHomeworkApplication.class, args);
 	}
-	//
+
 }
